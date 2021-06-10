@@ -43,6 +43,6 @@ good chance to convert casual riders into members. She notes that casual riders 
 have chosen Cyclistic for their mobility needs.
 
 Moreno has set a clear goal: Design marketing strategies aimed at converting casual riders into annual members. In order to do
-that, however, the marketing analyst team needs to better understand how annual members and casual riders diƸer, why casual
+that, however, the marketing analyst team needs to better understand how annual members and casual riders difer, why casual
 riders would buy a membership, and how digital media could aƸect their marketing tactics. Moreno and her team are interested in
 analyzing the Cyclistic historical bike trip data to identify trends.
