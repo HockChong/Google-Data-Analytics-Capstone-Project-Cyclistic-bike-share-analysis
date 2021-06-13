@@ -1,0 +1,3 @@
+The trip data from April 2020 to April 2021 can be download at link below:
+
+https://divvy-tripdata.s3.amazonaws.com/index.html
