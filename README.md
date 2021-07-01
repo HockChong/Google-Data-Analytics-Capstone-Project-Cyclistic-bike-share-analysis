@@ -4,7 +4,7 @@
 ## Business Task
 * Analyze rider's usage patterns for marketing membership conversion programs.
 
-Tools : R , Tableau
+Used R performs data cleaning, Tableau performs exploratory data analysis.
 
 The dataset is available under this licennse https://www.divvybikes.com/data-license-agreement and can be dowloaded from the link below:
 https://divvy-tripdata.s3.amazonaws.com/index.html
