@@ -13,6 +13,5 @@ The dataset is available under this [licennse](https://www.divvybikes.com/data-l
 
 [Tableau profile](https://public.tableau.com/app/profile/hockchong/viz/GoogleDataAnalyticsCapstoneProjectCyclisticbike-shareanalysis/Cyclisticbike-shareanalysis)
 
-[Medium Blog](https://medium.com/geekculture/google-data-analytics-capstone-project-cyclistic-bike-share-analysis-6c42340b3f10)
 
 
